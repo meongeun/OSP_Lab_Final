@@ -1,5 +1,5 @@
-## Python version 3.6
-How to Run
+Python version 3.6
+## How to Run
 1. 돌리기전 Pascal VOC 2012 dataset 다운로드 
 
 ## How to Run Unet
